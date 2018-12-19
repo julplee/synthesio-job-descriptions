@@ -37,10 +37,12 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 * International and multi skills environment (US, EMEA, APAC)
 * Competitive salary
 * Working in a fast growing company with talented people
-* Role playing games with the team
 * Lunch vouchers
 * Healthcare insurance
-* Synthesio sport session every Thursday
+* Synthesio gives time to our employees for leisure during the weeks and we already have groups around
+  * Sport sessions together (crossfit, jogging…)
+  * Role playing games with the team
+  * Free time (you can take the time to train yourself during work hours)
 * Many team events, including our famous yearly kick off somewhere in the world
 
 ## Our values
