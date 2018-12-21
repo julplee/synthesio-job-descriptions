@@ -17,23 +17,19 @@ You will join an engineering team of brilliant people and take on many challenge
 * possibility of evolving to a role including Frontend Engineering missions as well
 
 ## Technical skills
-You have a first experience with building modern web application with ES6, React and Sass in a team with source control
-You’re curious about frontend development without falling into Javascript fatigue
-You’re aware about quality as a top priority - you pay attention to what you make
-You have a point of view with low ego
-You enjoy to try, learn and be mentored
-
+* JavaScript skills. Experience with modern JavaScript libs is a plus
+* Interested in writing reliable, maintainable and reusable code
+* first experience with building modern web application with ES6, React and Sass in a team with source control is a plus
+* Experience with component-based architecture is a plus
+* Experience with maintainable and scalabe CSS
+* SASS or LESS is a plus
+* Knowledge of Git branching and tools like npm or yarn
+* Knowledge of design tools such as Sketch, Invision, Adobe is a plus
 
 Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra
 
 ## Requirements
 * Some experience with Design Systems in a tech company
-* JavaScript skills. Experience with modern JavaScript libs is a plus
-* Experience with maintainable and scalabe CSS
-* Interested in writing reliable, maintainable and reusable code
-* Experience with component-based architecture is a plus
-* Knowledge of Git branching and tools like npm or yarn
-* Knowledge of design tools such as Sketch, Invision, Adobe is a plus
 * Interested in understanding user needs
 * Rigourness
 * Good communication and collaboration skills
