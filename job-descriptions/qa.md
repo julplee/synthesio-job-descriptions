@@ -9,8 +9,8 @@ You will join an engineering team of brilliant people and take on many challenge
 * work in a automated process so that we deploy in production daily (continuous delivery)
 
 ## Mission
-* Hire and manage QA analysts or automation engineers
-* Lead the automation via End-to-End tests of Synthesio platform in particular
+* Colaborate and communicate thoroughly with Product and Developers and challenge functional requirements
+* Participate in the automation via End-to-End tests of Synthesio platform in particular
   * Create and maintain tests scenarios
   * Automate the run of these tests to sustain each product release (CI integration)
 * Validate releases regarding the QA coverage of the product in particular
@@ -30,8 +30,7 @@ You will join an engineering team of brilliant people and take on many challenge
 Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra
 
 ## Requirements
-* Minimum of 1-2 years of experience as QA Engineer in a tech company
-* Demonstrated experience on running a QA team and personal growth of team members (e.g. mentoring) is a plus
+* Some experience as QA Engineer in a tech company
 * Interested in understanding user needs
 * Ability to design a logical tree from user use-cases
 * Rigourness
@@ -52,7 +51,7 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
   * Role playing games with the team
   * Free time (you can take the time to train yourself during work hours)
 * Many team events, including our famous yearly kick off somewhere in the world
-
+ 
 ## Our values
 * **Win As One Team**: We are nothing without each other. We support each other, celebrate team spirit, and always move together
 * **Test And Learn**: We're not afraid to fail but we're afraid of not trying. We learn from our mistakes and always come back stronger
