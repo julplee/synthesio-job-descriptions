@@ -19,7 +19,6 @@ You will join an engineering team of brilliant people and take on many challenge
 ## Technical skills
 * JavaScript skills. Experience with modern JavaScript libs is a plus
 * Interested in writing reliable, maintainable and reusable code
-* First experience with building modern web application with ES6, React and Sass is a plus
 * Experience with component-based architecture is a plus
 * Experience with maintainable and scalable CSS
 * SASS or LESS is a plus
