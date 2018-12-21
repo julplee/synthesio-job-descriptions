@@ -6,7 +6,7 @@ Feel free to reach out to me if you want to participate in this project or use t
 ## Job descriptions
 
 ### Frontend Engineering
-* [Design System Engineer](job-descriptions/design-system-engineer.md)
+* [Frontend Design System Engineer](job-descriptions/frontend-design-system-engineer.md)
 
 ### Data Science
 * [Data Scientist](job-descriptions/data-scientist.md)
