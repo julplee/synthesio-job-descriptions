@@ -6,8 +6,9 @@ After a first data crawling phase, we enrich and provide data in many different 
 You will join an engineering team of brilliant people and take on many challenges such as:
 * Create customizable dashboards with real time metrics, orchestrated by Javascript ecosystem
 * Create product user interfaces while consistently working with the data engineering team
-* Improve our development workflow
-* Take care about our continuous integration and error tracking
+* Participate in the definition of qualitative features through data visualizations, data science models, data engineering processing pipelines...
+* Improve our development workflow and our team practices
+* Take care about our continuous integration and error tracking systems
 * Work in a automated process so that we deploy in production daily (continuous delivery)
 
 ## Mission
