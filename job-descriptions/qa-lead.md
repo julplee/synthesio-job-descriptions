@@ -10,12 +10,12 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 * Hire and manage QA analysts or automation engineers
-* Lead the automation via End-to-End tests of Synthesio platform
-* Create and maintain tests scenarios
-* Automate the run of these tests for each product release (CI integration)
-* Validate releases regarding the QA coverage of the product
-* Non-regression in automated tests suites
-* Exploratory tests regarding the scope of the release
+* Lead the automation via End-to-End tests of Synthesio platform in particular
+  * Create and maintain tests scenarios
+  * Automate the run of these tests to  sustain each product release (CI integration)
+* Validate releases regarding the QA coverage of the product in particular
+  * Non-regression with automated tests suites
+  * Exploratory tests regarding the scope of the release
 
 ## Technical skills
 * Selenium WebDriver
