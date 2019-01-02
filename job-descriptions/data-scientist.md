@@ -21,7 +21,7 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
-* Good knowledge about developing Data Science models 
+* Good knowledge about developing Data Science models
 * Interested in integrating models in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and Trends detection is a plus
 

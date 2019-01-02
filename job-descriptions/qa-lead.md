@@ -1,7 +1,11 @@
+# QA Lead Job Description
+
 ## Company Description
-Synthesio allows global brands and agencies to listen to conversations about their products and measure their impact on the market. 
+
+Synthesio allows global brands and agencies to listen to conversations about their products and measure their impact on the market.
 After a first data crawling phase, we enrich and provide data in many different visualizations that will enable marketing professionals to optimize their decisions and strategy for their business
 You will join an engineering team of brilliant people and take on many challenges such as:
+
 * Create customizable dashboards with real time metrics, orchestrated by Javascript ecosystem
 * Create product user interfaces while consistently working with the data engineering team
 * Participate in the definition of qualitative features through data visualizations, data science models, data engineering processing pipelines...
@@ -10,6 +14,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Work in a automated process so that we deploy in production daily (continuous delivery)
 
 ## Mission
+
 * Hire and manage QA analysts or automation engineers
 * Lead the automation via End-to-End tests of Synthesio platform in particular
   * Create and maintain tests scenarios
@@ -19,6 +24,7 @@ You will join an engineering team of brilliant people and take on many challenge
   * Exploratory tests regarding the scope of the release
 
 ## Technical skills
+
 * Selenium WebDriver
 * NightwatchJS or Protractor knowledge is a plus
 * PageObject or Screenplay pattern is a plus
@@ -31,6 +37,7 @@ You will join an engineering team of brilliant people and take on many challenge
 Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra
 
 ## Requirements
+
 * Minimum of 1-2 years of experience as QA Engineer in a tech company
 * Demonstrated experience on running a QA team and personal growth of team members (e.g. mentoring) is a plus
 * Interested in understanding user needs
@@ -40,6 +47,7 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 * Fluent in English or French. This includes written, speaking and reading
 
 ## Benefits
+
 * Hardware of your choice
 * Real Big Data experience with more than 60 Millions mentions per day
 * Team experience in Paris Ier
@@ -55,7 +63,7 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 * Many team events, including our famous yearly kick off somewhere in the world
 
 ## Our values
+
 * **Win As One Team**: We are nothing without each other. We support each other, celebrate team spirit, and always move together
 * **Test And Learn**: We're not afraid to fail but we're afraid of not trying. We learn from our mistakes and always come back stronger
 * **Listen Up**: The more we listen, the more we learn. Every person has something to teach us
-
