@@ -17,4 +17,4 @@ Feel free to reach out to me if you want to participate in this project or use t
 ### QA
 
 * [QA Lead](job-descriptions/qa-lead.md)
-* [QA](job-descriptions/qa.md)
+* [QA Engineer](job-descriptions/qa-engineer.md)
