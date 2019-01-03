@@ -1,4 +1,4 @@
-# QA Engineer Job Description
+# Data Engineer Job Description
 
 ## Company Description
 
@@ -15,32 +15,23 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
-* Collaborate and communicate thoroughly with Product and Developers and challenge functional requirements
-* Participate in the automation via End-to-End tests of Synthesio platform in particular
-  * Create and maintain tests scenarios
-  * Automate the run of these tests to sustain each product release (CI integration)
-* Validate releases regarding the QA coverage of the product in particular
-  * Non-regression with automated tests suites
-  * Exploratory tests regarding the scope of the release
+* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in a data processing pipeline of multiple micro-services (Data Science, Data Storage, Data Processing...)
+* Participate to our various Data Engineering projects as each year you'll have the chance to work in various teams: a feature squad with other Data Engineers, Frontend Engineers, Data Scientists... or with the SRE team or being part of the Data Engineering technical team
+* Work closely with product which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 
-* Selenium WebDriver
-* NightwatchJS or Protractor knowledge is a plus
-* PageObject or Screenplay pattern is a plus
-* Cucumber syntax (or equivalent) is a plus
-* Interested in knowledge of design patterns and web development good practices
-* Code architecture (Reusability, Maintainability, Isolation, S.O.L.I.D principles)
-* Code versioning (Git, Git-flow)
-* Common Security threats
+* Good knowledge about developing Data Engineering pipelines
+* Interested in manipulating dozens of microservices in data processing pipelines handling billions of data
+* Knowledge in the fields of Go, ElasticSearch and microservices architectures is a plus
 
 Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 
-* Some experience as QA Engineer in a tech company
+* Scholar background in Computer Science
+* 1-2 years of experience as a Data Engineer in a tech company is a plus
 * Interested in understanding user needs
-* Ability to design a logical tree from user use-cases
 * Rigourness
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading
@@ -65,4 +56,4 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 
 * **Win As One Team**: We are nothing without each other. We support each other, celebrate team spirit, and always move together
 * **Test And Learn**: We're not afraid to fail but we're afraid of not trying. We learn from our mistakes and always come back stronger
-* **Listen Up**: The more we listen, the more we learn. Every person has something to teach us
+* **Listen Up**: The more we listen, the more we learn. Every person has something to teach up
