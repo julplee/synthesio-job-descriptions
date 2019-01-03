@@ -30,7 +30,7 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 ## Requirements
 
 * Scholar background in Data Science
-* 1-2 years of experience as in a tech company is a plus
+* 1-2 years of experience as a Data Scientist in a tech company is a plus
 * Interested in understanding user needs
 * Rigourness
 * Good communication and collaboration skills
