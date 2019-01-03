@@ -25,7 +25,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Interested in integrating models in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and Trends detection is a plus
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra
+Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 

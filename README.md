@@ -6,6 +6,10 @@ Feel free to reach out to me if you want to participate in this project or use t
 
 ## Job descriptions
 
+### Data Engineering
+
+* [Data Engineer](job-descriptions/data-engineer.md)
+
 ### Frontend Engineering
 
 * [Frontend Design System Engineer](job-descriptions/frontend-design-system-engineer.md)
