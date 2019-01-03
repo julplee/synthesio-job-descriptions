@@ -23,7 +23,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 * Good knowledge about developing Data Engineering pipelines
 * Interested in manipulating dozens of microservices in data processing pipelines handling billions of data
-* Knowledge in the fields of Go, ElasticSearch and microservices architectures is a plus
+* Interested in massive data querying problematics (1 PB+ ElasticSearch, 750TB+ MySQL clusters, 50 TB+ ScyllaDB...)
+* Knowledge in the fields of Go, ElasticSearch and microservices, Kappa or Lambda architectures is a plus
 
 Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
@@ -40,7 +41,9 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 
 * Hardware of your choice
 * Real Big Data experience with more than 60 Millions mentions per day
-* Team experience in Paris Ier
+* Team experience in Paris Ier (Food enthusiasts take notes!)
+* Flat organization and strong culture
+* Remote friendly
 * International and multi skills environment (US, EMEA, APAC)
 * Competitive salary
 * Working in a fast growing company with talented people

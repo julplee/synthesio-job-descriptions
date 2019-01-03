@@ -45,7 +45,9 @@ Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, 
 
 * Hardware of your choice
 * Real Big Data experience with more than 60 Millions mentions per day
-* Team experience in Paris Ier
+* Team experience in Paris Ier (Food enthusiasts take notes!)
+* Flat organization and strong culture
+* Remote friendly
 * International and multi skills environment (US, EMEA, APAC)
 * Competitive salary
 * Working in a fast growing company with talented people
