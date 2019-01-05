@@ -15,6 +15,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
+* Work closely with the product team and the design team and foster in an agile environment by quickly prototyping applications using HTML5, CSS3, JavaScript, Sass, ReactJS, and node.js
+
 ## Technical skills
 
 * JavaScript skills and experience with modern JavaScript libs
