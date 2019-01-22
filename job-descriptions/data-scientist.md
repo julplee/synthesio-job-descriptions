@@ -26,7 +26,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
 * Knowledge of Python and Pandas are required
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Requirements
 

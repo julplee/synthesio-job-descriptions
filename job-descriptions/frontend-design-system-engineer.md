@@ -31,7 +31,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Knowledge of Git branching and tools like npm or yarn
 * Knowledge of design tools such as Sketch, Invision, Adobe is a plus
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Requirements
 
