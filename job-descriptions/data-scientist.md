@@ -25,14 +25,14 @@ You will join an engineering team of brilliant people and take on many challenge
 * Interested in integrating models in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and Trends detection is a plus
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 
 * Scholar background in Data Science
 * 1-2 years of experience as a Data Scientist in a tech company is a plus
 * Interested in understanding user needs
-* Rigourness
+* Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading
 

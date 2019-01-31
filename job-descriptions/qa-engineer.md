@@ -34,14 +34,14 @@ You will join an engineering team of brilliant people and take on many challenge
 * Code versioning (Git, Git-flow)
 * Common Security threats
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 
 * Some experience as QA Engineer in a tech company
 * Interested in understanding user needs
 * Ability to design a logical tree from user use-cases
-* Rigourness
+* Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading
 

@@ -26,14 +26,14 @@ You will join an engineering team of brilliant people and take on many challenge
 * Interested in massive data querying problematics (1 PB+ ElasticSearch, 750TB+ MySQL clusters, 50 TB+ ScyllaDB...)
 * Knowledge in the fields of Go, ElasticSearch and microservices, Kappa or Lambda architectures is a plus
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 
 * Scholar background in Computer Science
 * 1-2 years of experience as a Data Engineer in a tech company is a plus
 * Interested in understanding user needs
-* Rigourness
+* Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading
 

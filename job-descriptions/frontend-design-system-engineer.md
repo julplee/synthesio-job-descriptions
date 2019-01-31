@@ -31,13 +31,13 @@ You will join an engineering team of brilliant people and take on many challenge
 * Knowledge of Git branching and tools like npm or yarn
 * Knowledge of design tools such as Sketch, Invision, Adobe is a plus
 
-Our Stack : ReactJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
 
 ## Requirements
 
 * Some experience with Design Systems in a tech company
 * Interested in understanding user needs
-* Rigourness
+* Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading
 
