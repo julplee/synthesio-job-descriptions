@@ -34,7 +34,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Code versioning (Git, Git-flow)
 * Common Security threats
 
-Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Requirements
 

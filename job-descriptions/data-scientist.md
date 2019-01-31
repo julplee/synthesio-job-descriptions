@@ -15,17 +15,18 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
-* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) on NLP (Clustering, Sentiment Analysis, Entity Recognition…), Computer Vision and Trends detection
+* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) on NLP (Clustering, Sentiment Analysis, Entity Recognition…), Computer Vision and Trends detection in a distributed infrastructure
 * Work closely with data engineering to setup data processing pipelines including data preparation, models training, feedback loops
 * Work closely with product to choose which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 
-* Good knowledge about developing Data Science models
+* Good knowledge about developing Data Science models: Data preparation, Model selection, Model training, Feedback loops...
 * Interested in integrating models in data processing pipelines manipulating billions of data
-* Knowledge in the fields of NLP, Computer Vision and Trends detection is a plus
+* Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
+* Knowledge of Python and Pandas are required
 
-Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Requirements
 

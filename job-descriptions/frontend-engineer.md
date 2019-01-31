@@ -1,4 +1,4 @@
-# Data Engineer Job Description
+# Frontend Design System Engineer Job Description
 
 ## Company Description
 
@@ -22,16 +22,18 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
-* Good knowledge in Frontend Engineering practices
+* JavaScript skills and experience with modern JavaScript libs
+* Interested in writing reliable, maintainable and reusable code
 * Interested in manipulating dozens of NPM packages in a fully industrialized environment and APIs handling billions of data
-* Interested in massive data querying problematics (1 PB+ ElasticSearch, 750TB+ MySQL clusters, 50 TB+ ScyllaDB...)
+* Experience with component-based architecture
 * Knowledge in the fields of ReactJS, Design System, NodeJS, Vanilla Javascript, CSS, SASS, ElasticSearch and microservices
+* Knowledge of Git branching and tools such as npm or yarn
 
-Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra, Ansible
+Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Requirements
 
-* Scholar background in Computer Science
+* First experience with building modern web application with ES6, React and Sass
 * 1-2 years of experience as a Frontend Engineer in a tech company is a plus
 * Interested in understanding user needs
 * Rigourness and strong appetite for software quality
