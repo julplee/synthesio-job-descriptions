@@ -15,9 +15,9 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
-* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in our SaaS web application allowing our customers to build their dashboards and data visualizations
-* Manipulate a various ecosystem of more than a hundred of proprietary NPM packages fully industrialized with Docker and Vagrant
-* Participate to our various Frontend Engineering projects as each year you'll have the chance to work in various teams: a feature squad with other Frontend Engineers, Data Engineers, Data Scientists... or with the Frontend Engineering technical team
+* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in our SaaS web application allowing our customers to build their dashboards and data visualizations with real time metrics, all orchestrated by native and modern Javascript ecosystem
+* Manipulate a various Javascript ecosystem of more than one hundred of proprietary NPM packages fully industrialized with Docker and Vagrant and based on Node v8, ES6, Webpack and Yarn
+* Participate to our various Frontend Engineering projects as each year you'll have the chance to work in various teams: become a valued member of a cross functional team with other Frontend Engineers, Data Engineers, Data Scientists... or with the Frontend Engineering technical team
 * Work closely with product which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
@@ -27,6 +27,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * JavaScript skills and experience with modern JavaScript libs
 * Interested in writing reliable, maintainable and reusable code
 * Interested in manipulating dozens of NPM packages in a fully industrialized environment and APIs handling billions of data
+* Eager to test code with lots of unit and integration tests using frameworks such as Jest, Mocha, Enzyme...
 * Experience with component-based architecture
 * Knowledge in the fields of ReactJS, Design System, NodeJS, Vanilla Javascript, CSS, SASS, ElasticSearch and microservices
 * Knowledge of Git branching and tools such as npm or yarn
