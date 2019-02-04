@@ -15,12 +15,15 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
+* Design, develop and deploy backend services with focus on high availability, low latency and scalability
 * Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in a data processing pipeline of multiple micro-services (Data Science, Data Storage, Data Processing...)
-* Participate to our various Data Engineering projects as each year you'll have the chance to work in various teams: a feature squad with other Data Engineers, Frontend Engineers, Data Scientists... or with the SRE team or being part of the Data Engineering technical team
-* Work closely with product which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
+* Participate to our various Data Engineering projects as each year you'll have the chance to work in various teams: become a valued member of a cross functional team with other Data Engineers, Frontend Engineers, Data Scientists... or collaborate closely with the SRE team or be part of the Data Engineering technical team
+* Work closely with product team on which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 
+* Scholar background in Computer Science
+* 1-2 years of experience as a Data Engineer in a tech company is a plus
 * Good knowledge about developing Data Engineering pipelines
 * Interested in manipulating dozens of microservices in data processing pipelines handling billions of data
 * Interested in massive data querying problematics (1 PB+ ElasticSearch, 750TB+ MySQL clusters, 50 TB+ ScyllaDB...)
@@ -28,10 +31,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
-## Requirements
+## Soft skills
 
-* Scholar background in Computer Science
-* 1-2 years of experience as a Data Engineer in a tech company is a plus
 * Interested in understanding user needs
 * Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
