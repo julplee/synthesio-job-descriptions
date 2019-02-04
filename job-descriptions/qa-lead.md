@@ -42,6 +42,7 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 
 * Demonstrated experience on running a QA team and personal growth of team members (e.g. mentoring) is a plus
 * Eager to setting management principles: have regular 1:1s, aim at individual growth of the team members, foster a thriving environment...
+* Represent the organization and advocate its data quality efforts and capabilities using external presentations and publications
 * Interested in understanding user needs
 * Independent, self-organizing, and able to prioritize multiple complex assignments
 * Intellectual curiosity and passion

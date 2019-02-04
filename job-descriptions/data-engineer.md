@@ -35,6 +35,7 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 
 * Interested in understanding user needs
 * Independent, self-organizing, and able to prioritize multiple complex assignments
+* Represent the organization and advocate its data engineering efforts and capabilities using external presentations and publications
 * Intellectual curiosity and passion
 * Rigourness and strong appetite for software quality
 * Good communicator, self-starter and collaborative enthusiast

@@ -37,8 +37,12 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 ## Soft skills
 
 * Interested in understanding user needs
+* Independent, self-organizing, and able to prioritize multiple complex assignments
+* Represent the organization and advocate its web development efforts and capabilities using external presentations and publications
+* Intellectual curiosity and passion
 * Rigourness and strong appetite for software quality
-* Good communication and collaboration skills
+* Good communicator, self-starter and collaborative enthusiast
+* Work the details from the beginning, not just at the end
 * Fluent in English or French. This includes written, speaking and reading
 
 ## Benefits
