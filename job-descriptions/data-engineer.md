@@ -18,7 +18,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Design, develop and deploy backend services with focus on high availability, low latency and scalability
 * Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in a data processing pipeline of multiple micro-services (Data Science, Data Storage, Data Processing...)
 * Participate to our various Data Engineering projects as each year you'll have the chance to work in various teams: become a valued member of a cross functional team with other Data Engineers, Frontend Engineers, Data Scientists... or collaborate closely with the SRE team or be part of the Data Engineering technical team
-* Work closely with product team on which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
+* Work closely with product team to choose which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 

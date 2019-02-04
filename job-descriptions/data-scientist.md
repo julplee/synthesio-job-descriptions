@@ -17,7 +17,7 @@ You will join an engineering team of brilliant people and take on many challenge
 
 * Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) on NLP (Clustering, Sentiment Analysis, Entity Recognition…), Computer Vision and Trends detection in a distributed infrastructure
 * Work closely with data engineering to setup data processing pipelines including data preparation, models training, feedback loops
-* Work closely with product to choose which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
+* Work closely with product team to choose which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 
