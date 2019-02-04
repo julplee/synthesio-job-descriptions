@@ -17,7 +17,8 @@ Feel free to reach out to me if you want to participate in this project or use t
 
 ### Data Science
 
-* [Data Scientist](job-descriptions/data-scientist.md)
+* [Data Science Lead](job-descriptions/data-science-lead.md)
+* [Data Science Engineer](job-descriptions/data-science-engineer.md)
 
 ### QA
 

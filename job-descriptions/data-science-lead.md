@@ -1,4 +1,4 @@
-# QA Lead Job Description
+# Data Science Lead Job Description
 
 ## Company Description
 
@@ -15,36 +15,28 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Mission
 
-* Hire and manage QA analysts or automation engineers
-* Lead the automation via End-to-End tests of Synthesio platform in particular
-  * Create and maintain tests scenarios
-  * Automate the run of these tests to sustain each product release (CI integration)
-* Validate releases regarding the QA coverage of the product in particular
-  * Non-regression with automated tests suites
-  * Exploratory tests regarding the scope of the release
+* Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) on NLP (Clustering, Sentiment Analysis, Entity Recognition…), Computer Vision and Trends detection in a distributed infrastructure
+* Work closely with data engineering to setup data processing pipelines including data preparation, models training, feedback loops
+* Work closely with product team to choose which features we can incorporate and define which we will buy, which we will build internally, and which we will partner with
 
 ## Technical skills
 
-* Minimum of 1-2 years of experience as QA Engineer in a tech company
-* Ability to design a logical tree from user use-cases
-* Selenium WebDriver
-* NightwatchJS or Protractor knowledge is a plus
-* PageObject or Screenplay pattern is a plus
-* Cucumber syntax (or equivalent) is a plus
-* Interested in knowledge of design patterns and web development good practices
-* Code architecture (Reusability, Maintainability, Isolation, S.O.L.I.D principles)
-* Code versioning (Git, Git-flow)
-* Common Security threats
+* Scholar background in Data Science
+* 1-2 years of experience as a Data Scientist in a tech company is a plus
+* Good knowledge about developing Data Science models: Data preparation, Model selection, Model training, Feedback loops...
+* Interested in integrating models built for the future and cost effective in data processing pipelines manipulating billions of data
+* Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
+* Knowledge of Python and Pandas are required
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
 ## Soft skills
 
-* Demonstrated experience on running a QA team and personal growth of team members (e.g. mentoring) is a plus
+* Highly preferred - prior experience leading a small team as well as having prior experience in a high growth SaaS product company
 * Eager to setting management best practices: have regular 1:1s, aim at individual growth of the team members, foster a thriving environment...
 * Interested in understanding user needs
 * Independent, self-organizing, and able to prioritize multiple complex assignments
-* Represent the organization and advocate its data quality efforts and capabilities using external presentations and publications
+* Represent the organization and advocate its data analytics efforts and capabilities using external presentations and publications
 * Intellectual curiosity and passion
 * Rigourness and strong appetite for software quality
 * Good communicator, self-starter and collaborative enthusiast
@@ -73,4 +65,4 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 
 * **Win As One Team**: We are nothing without each other. We support each other, celebrate team spirit, and always move together
 * **Test And Learn**: We're not afraid to fail but we're afraid of not trying. We learn from our mistakes and always come back stronger
-* **Listen Up**: The more we listen, the more we learn. Every person has something to teach us
+* **Listen Up**: The more we listen, the more we learn. Every person has something to teach up
