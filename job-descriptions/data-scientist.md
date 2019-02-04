@@ -24,7 +24,7 @@ You will join an engineering team of brilliant people and take on many challenge
 * Scholar background in Data Science
 * 1-2 years of experience as a Data Scientist in a tech company is a plus
 * Good knowledge about developing Data Science models: Data preparation, Model selection, Model training, Feedback loops...
-* Interested in integrating models in data processing pipelines manipulating billions of data
+* Interested in integrating models built for the future and cost effective in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
 * Knowledge of Python and Pandas are required
 
@@ -34,6 +34,7 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 
 * Interested in understanding user needs
 * Independent, self-organizing, and able to prioritize multiple complex assignments
+* Represent the organization and advocate its data analytics efforts and capabilities using external presentations and publications
 * Intellectual curiosity and passion
 * Rigourness and strong appetite for software quality
 * Good communicator, self-starter and collaborative enthusiast
