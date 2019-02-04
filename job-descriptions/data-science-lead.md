@@ -22,7 +22,7 @@ You will join an engineering team of brilliant people and take on many challenge
 ## Technical skills
 
 * Scholar background in Data Science
-* 1-2 years of experience as a Data Scientist in a tech company is a plus
+* At least 4 years of experience as a Data Scientist in a tech company
 * Good knowledge about developing Data Science models: Data preparation, Model selection, Model training, Feedback loops...
 * Interested in integrating models built for the future and cost effective in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
