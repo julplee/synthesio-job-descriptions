@@ -21,6 +21,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
+* Scholar background in Data Science
+* 1-2 years of experience as a Data Scientist in a tech company is a plus
 * Good knowledge about developing Data Science models: Data preparation, Model selection, Model training, Feedback loops...
 * Interested in integrating models in data processing pipelines manipulating billions of data
 * Knowledge in the fields of NLP, Computer Vision and/or Trends detection is a plus
@@ -28,10 +30,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
-## Requirements
+## Soft skills
 
-* Scholar background in Data Science
-* 1-2 years of experience as a Data Scientist in a tech company is a plus
 * Interested in understanding user needs
 * Rigourness and strong appetite for software quality
 * Good communication and collaboration skills

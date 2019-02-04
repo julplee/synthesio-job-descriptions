@@ -23,6 +23,7 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
+* Some experience with Design Systems in a tech company
 * JavaScript skills. Experience with modern JavaScript libs is a plus
 * Interested in writing reliable, maintainable and reusable code
 * Experience with component-based architecture is a plus
@@ -33,9 +34,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
-## Requirements
+## Soft skills
 
-* Some experience with Design Systems in a tech company
 * Interested in understanding user needs
 * Rigourness and strong appetite for software quality
 * Good communication and collaboration skills

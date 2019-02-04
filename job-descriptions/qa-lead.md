@@ -25,6 +25,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
+* Minimum of 1-2 years of experience as QA Engineer in a tech company
+* Ability to design a logical tree from user use-cases
 * Selenium WebDriver
 * NightwatchJS or Protractor knowledge is a plus
 * PageObject or Screenplay pattern is a plus
@@ -36,12 +38,10 @@ You will join an engineering team of brilliant people and take on many challenge
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
-## Requirements
+## Soft skills
 
-* Minimum of 1-2 years of experience as QA Engineer in a tech company
 * Demonstrated experience on running a QA team and personal growth of team members (e.g. mentoring) is a plus
 * Interested in understanding user needs
-* Ability to design a logical tree from user use-cases
 * Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
 * Fluent in English or French. This includes written, speaking and reading

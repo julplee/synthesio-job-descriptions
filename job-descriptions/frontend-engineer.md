@@ -22,6 +22,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 ## Technical skills
 
+* First experience with building modern web application with ES6, React and Sass
+* 1-2 years of experience as a Frontend Engineer in a tech company is a plus
 * JavaScript skills and experience with modern JavaScript libs
 * Interested in writing reliable, maintainable and reusable code
 * Interested in manipulating dozens of NPM packages in a fully industrialized environment and APIs handling billions of data
@@ -31,10 +33,8 @@ You will join an engineering team of brilliant people and take on many challenge
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
-## Requirements
+## Soft skills
 
-* First experience with building modern web application with ES6, React and Sass
-* 1-2 years of experience as a Frontend Engineer in a tech company is a plus
 * Interested in understanding user needs
 * Rigourness and strong appetite for software quality
 * Good communication and collaboration skills
