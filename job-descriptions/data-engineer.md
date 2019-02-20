@@ -9,12 +9,12 @@
 
 ## Technical skills
 
-* Scholar background in Computer Science
 * 1-2 years of experience as a Data Engineer in a tech company is a plus
 * Good knowledge about developing Data Engineering pipelines
 * Interested in manipulating dozens of microservices in data processing pipelines handling billions of data
 * Interested in massive data querying problematics (1 PB+ ElasticSearch, 750TB+ MySQL clusters, 50 TB+ ScyllaDB...)
 * Knowledge in the fields of Go, ElasticSearch and microservices, Kappa or Lambda architectures is a plus
+* Scholar background in Computer Science
 
 Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL APIs, Git, Vagrant, Docker, Jenkins, Python, Cassandra (ScyllaDB), Ansible
 
