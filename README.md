@@ -4,6 +4,8 @@ Job descriptions for the various Synthesio roles
 
 Feel free to reach out to me if you want to participate in this project or use the different job descriptions for your company or if you have questions
 
+[Company description](company-en.md)
+
 ## Job descriptions
 
 ### Data Engineering
