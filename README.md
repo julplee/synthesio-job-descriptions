@@ -10,6 +10,7 @@ Feel free to reach out to me if you want to participate in this project or use t
 
 ### Data Engineering
 
+* [Data Apprentice](job-descriptions/data-apprentice.md)
 * [Data Engineer](job-descriptions/data-engineer.md)
 
 ### Frontend Engineering

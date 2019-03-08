@@ -1,5 +1,9 @@
 # Frontend Design System Engineer Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Evolve and maintain our Design System in particular

@@ -1,5 +1,9 @@
 # QA Lead Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Hire and manage QA analysts or automation engineers

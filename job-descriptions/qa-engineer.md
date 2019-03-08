@@ -1,5 +1,9 @@
 # QA Engineer Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Collaborate and communicate thoroughly with Product and Developers and challenge functional requirements

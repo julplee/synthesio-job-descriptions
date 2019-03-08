@@ -1,5 +1,9 @@
 # Data Science Engineer Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) on NLP (Clustering, Sentiment Analysis, Entity Recognition…), Computer Vision and Trends detection in a distributed infrastructure

@@ -1,5 +1,9 @@
 # Frontend Design System Engineer Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Enjoy manipulating billions of data (60+ millions a day, 3PB of datastores) in our SaaS web application allowing our customers to build their dashboards and data visualizations with real time metrics, all orchestrated by native and modern Javascript ecosystem

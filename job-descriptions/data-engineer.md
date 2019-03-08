@@ -1,5 +1,9 @@
 # Data Engineer Job Description
 
+## Company Description
+
+[Company Description](../company-en.md)
+
 ## Mission
 
 * Design, develop and deploy backend services with focus on high availability, low latency and scalability
