@@ -23,7 +23,7 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 * Interested in understanding user needs
 * Independent, self-organizing, and able to prioritize multiple complex assignments
 * Intellectual curiosity and passion
-* Rigourness and strong appetite for software quality
+* Thoroughness and strong appetite for software quality
 * Good communicator, self-starter and collaborative enthusiast
 * Work the details from the beginning, not just at the end
 * Able to communicate in English or French. This includes written, speaking and reading

@@ -35,7 +35,7 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 * Independent, self-organizing, and able to prioritize multiple complex assignments
 * Represent the organization and advocate its data quality efforts and capabilities using external presentations and publications
 * Intellectual curiosity and passion
-* Rigour and strong appetite for software quality
+* Thoroughness and strong appetite for software quality
 * Good communicator, self-starter and collaborative enthusiast
 * Work the details from the beginning, not just at the end
 * Fluent in English or French. This includes written, speaking and reading
