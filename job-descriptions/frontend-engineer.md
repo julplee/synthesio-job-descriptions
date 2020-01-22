@@ -40,19 +40,19 @@ Our Stack : ReactJS, NodeJS, Go, Mysql, ElasticSearch, Kafka, REST & GraphQL API
 
 * Hardware of your choice
 * Real Big Data experience with more than 60 Millions mentions per day
-* Team experience in Paris Ier (Food enthusiasts take notes!)
 * Flat organization and strong culture
 * Remote friendly
+* Company restaurant
+* Fitness room with showers for 15€/month 
 * International and multi skills environment (US, EMEA, APAC)
 * Competitive salary
 * Working in a fast growing company with talented people
-* Lunch vouchers
 * Healthcare insurance
 * Synthesio gives time to our employees for leisure during the weeks and we already have groups around
   * Sport sessions together (crossfit, jogging…)
   * Role playing games with the team
   * Free time (you can take the time to train yourself during work hours)
-* Many team events, including our famous yearly kick off somewhere in the world
+* Many team events
 
 ## Our values
 
